@@ -19,3 +19,13 @@ Modularitas adalah konsep dalam pengembangan perangkat lunak di mana program dip
 `Go` sudah menyediakan intruksi yang cukup jelas tentang instalasi dan infromasi tersebut dapat dilihat pada dokumentasi resmi `Go`.
 
 Berikut merupakan link dari dokumentasi `Go` terkait instalasi https://go.dev/doc/install.
+
+**Note**
+
+Berikut adalah daftar dari apa - apa saja yang telah saya pelajari melalui dokumentasi `Go` dan belum tertulis pada page ini.
+
+- package
+- modul
+- deklarasi function
+- error handling
+- slice / array
