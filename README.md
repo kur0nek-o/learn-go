@@ -1,7 +1,5 @@
 # Belajar Golang
 
-## Latar Belakang
-
 Repositori ini dibuat sebagai record, laporan atau ringkasan tentang apa saja yang telah saya pelajari dari bahasa pemrograman `Go`.
 
 ## Apa itu GO ?
@@ -29,3 +27,7 @@ Berikut adalah daftar dari apa - apa saja yang telah saya pelajari melalui dokum
 - deklarasi function
 - error handling
 - slice / array
+- pengkondisian
+- looping
+- map / array associative
+- Go unit test
