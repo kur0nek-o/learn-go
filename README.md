@@ -31,3 +31,4 @@ Berikut adalah daftar dari apa - apa saja yang telah saya pelajari melalui dokum
 - looping
 - map / array associative
 - Go unit test
+- RESTAPI menggunakan Go dan Gin
